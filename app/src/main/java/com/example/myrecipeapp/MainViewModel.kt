@@ -1,4 +1,4 @@
-package eu.tutorials.myrecipeapp
+package com.example.myrecipeapp
 
 import androidx.compose.runtime.State
 import androidx.compose.runtime.mutableStateOf
